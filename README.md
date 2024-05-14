@@ -27,3 +27,7 @@ The goal of this project is to predict whether a customer will churn or not. The
 * Pandas - Data analysis and manipulation tool.
 * Seaborn - Statistical data visualization.
 * Matplotlib - Plotting library for Python and its numerical mathematics extension NumPy.
+
+![snip1](https://github.com/vinyaas/End-to-End-Customer-Retention-Model/assets/124361378/840429e9-f171-4f05-a2b0-4252bf38d06a)
+
+![image](https://github.com/vinyaas/End-to-End-Customer-Retention-Model/assets/124361378/b16a0672-f724-4050-a294-01060917121b)
