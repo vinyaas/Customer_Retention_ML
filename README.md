@@ -1,6 +1,6 @@
 # Customer Churn Prediction for a Telecom Company
 
-This project is about predicting customer churn for a telecom company using **Decision Tree** and **Random Forest** algorithms.
+This project is about predicting customer churn for a telecom company using **Decision Tree** and **Random Forest** algorithms. This is a end to end machine learning project with deployment using flask api .
 
 ## Project Description
 
