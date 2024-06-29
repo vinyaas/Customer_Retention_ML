@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+}
+.form-group label {
+    font-style: italic;
+    color: #6c757d;
+    font-weight: bold;
+}
+h1 {
+    text-align: center;
+    color: #6c757d;
+    padding: 20px 0;
+}
+.form-group textarea {
+    border: 2px solid #6c757d;
+}
+.btn-primary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}

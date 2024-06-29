@@ -1,0 +1,71 @@
+<html>
+<head>
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="ui.css">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+ </head>
+ 
+</head>
+   <body>
+      <title>Churn Prediction</title>
+      <h1>Customer Retention Predictor</h1>
+        <div class="container">
+            <form action="http://localhost:5000/" method="POST">
+                <div class="row">
+                    <div class="col-sm-6 form-group purple-border">
+                        <label for="comment">DeviceProtection:</label>
+                        <textarea class="form-control" rows="2" id="query1" name="query12"></textarea>
+                    </div>
+                    <div class="col-sm-6 form-group purple-border">
+                        <label for="comment">InternetService:</label>
+                        <textarea class="form-control" rows="2" id="query2" name="query9"></textarea>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 form-group purple-border">
+                        <label for="comment">PaymentMethod:</label>
+                        <textarea class="form-control" rows="2" id="query3" name="query18"></textarea>
+                    </div>
+                    <div class="col-sm-6 form-group purple-border">
+                        <label for="comment">PhoneService:</label>
+                        <textarea class="form-control" rows="2" id="query4" name="query7"></textarea>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 form-group purple-border">
+                        <label for="comment">PaperlessBilling:</label>
+                        <textarea class="form-control" rows="2" id="query5" name="query17"></textarea>
+                    </div>
+                    <div class="col-sm-6 form-group purple-border">
+                        <label for="comment">TechSupport:</label>
+                        <textarea class="form-control" rows="2" id="query6" name="query13"></textarea>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary" name="submit">SUBMIT</button>
+            </form>
+        </div>
+    
+		  
+        <div class="row justify-content-center"> 
+            <div class="col-sm-6 offset-sm-0.75">
+                <div class="form-group purple-border">
+                    <label for="comment"></label>
+                    <textarea class="form-control" rows="2" id="comment" name="query6"></textarea>
+                </div>
+                <div class="form-group purple-border">
+                    <label for="comment"></label>
+                    <textarea class="form-control" rows="2" id="comment" name="query7"></textarea>
+                </div>
+            </div>
+        </div>
+        
+	</div>		
+   </body>
+</html>
