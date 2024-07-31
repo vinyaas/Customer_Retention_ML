@@ -48,5 +48,6 @@ All the source code for the model can be found in the `src` directory of this re
 
 This project successfully predicts whether the customer will is likely to churn or not .This project also demonstrates the effectiveness of decision trees and resampling techniques in handling imbalanced data and improving model performance. The model has been deployed using a Flask API, providing a user-friendly interface for making predictions.
 
+![image](https://github.com/user-attachments/assets/52590d84-96d7-4b8d-af1e-0bd32f20e683)
 
-![image](https://github.com/vinyaas/Customer-Retention-ML-End-to-End-/assets/124361378/d9d4b3ea-6004-45e1-9f36-d135e9ffea5f)
+
