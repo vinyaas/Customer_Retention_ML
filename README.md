@@ -22,7 +22,7 @@ The project involved several stages:
 
 ## Results
 
-The initial model achieved an accuracy of 80%. After resampling the data using SMOTEENN to handle data imbalance, the model's accuracy improved to 98%.
+The initial model achieved an accuracy of 80%. After resampling the data using SMOTEENN to handle data imbalance, the model's accuracy improved to 94%.
 
 ## Deployment
 
